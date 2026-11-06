@@ -162,23 +162,24 @@ Configuration progress
 
 # 0%
 
-Install Boto3 in PyCharm
+- Install Boto3 in PyCharm
+- Install and verify AWS CLI
+- Configure AWS credentials
+- Check your AWS CLI configuration
+`aws configure list`
 
-Install and verify AWS CLI
-
-Configure AWS credentials
-
-Set region to ap-south-1
-
-Verify identity using STS
-
-Connect to EC2 using Boto3
-
-List IAM users using Boto3
+- Set region
+`aws configure set region ap-south-1`
+  
+- Verify identity using STS
+- Connect to EC2 using Boto3
+- List IAM users using Boto3
 
 [List- IAM Users](https://github.com/anushri-sharma/AWS-Automation-with-Python-Boto3-and-Lambda/blob/main/iam_list_users.py)
+
 [List- Instances and check with instance id](https://github.com/anushri-sharma/AWS-Automation-with-Python-Boto3-and-Lambda/blob/main/list_ec2_instances.py)
-Launch and stop a test EC2 instance
+
+- Launch and stop a test EC2 instance
 
 [launch](https://github.com/anushri-sharma/AWS-Automation-with-Python-Boto3-and-Lambda/blob/main/launch_ec2.py)
 
