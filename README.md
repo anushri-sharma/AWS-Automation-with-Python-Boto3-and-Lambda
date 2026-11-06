@@ -1,4 +1,4 @@
-Let's configure Boto3 on your MacBook using PyCharm, step by step. Since you're practising AWS IAM and EC2 automation, we'll configure your AWS credentials, region and Python environment properly.
+configure Boto3 on your MacBook using PyCharm, step by step. Since you're practising AWS IAM and EC2 automation, we'll configure your AWS credentials, region and Python environment properly.
 
 # Step 1: Install Boto3
 
