@@ -176,8 +176,10 @@ Connect to EC2 using Boto3
 
 List IAM users using Boto3
 
+[List- IAM Users](https://github.com/anushri-sharma/AWS-Automation-with-Python-Boto3-and-Lambda/blob/main/iam_list_users.py)
+[List- Instances and check with instance id](https://github.com/anushri-sharma/AWS-Automation-with-Python-Boto3-and-Lambda/blob/main/list_ec2_instances.py)
 Launch and stop a test EC2 instance
 
-One important question: Have you already created an AWS Access Key ID and Secret Access Key, or do you need help creating them in the IAM Console?
+[launch](https://github.com/anushri-sharma/AWS-Automation-with-Python-Boto3-and-Lambda/blob/main/launch_ec2.py)
 
-I can guide you through that next, including the exact AWS Console steps.
+[Stop Instances/ Start/ Terminate](https://github.com/anushri-sharma/AWS-Automation-with-Python-Boto3-and-Lambda/blob/main/ec2.operations.py)
