@@ -11,7 +11,7 @@ aws_management_console = boto3.session.Session(
 ec2_console = aws_management_console.client("ec2")
 
 response = ec2_console.run_instances(
-    ImageId="ami-0c7632fb77f35db43",
+    ImageId="ami-0cxxxxxxxxxx",
     InstanceType="t2.micro",
     MaxCount=1,
     MinCount=1
