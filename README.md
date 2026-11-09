@@ -175,12 +175,12 @@ Configuration progress
 - Connect to EC2 using Boto3
 - List IAM users using Boto3
 
-[List- IAM Users](https://github.com/anushri-sharma/AWS-Automation-with-Python-Boto3-and-Lambda/blob/main/iam_list_users.py)
+- [List- IAM Users](https://github.com/anushri-sharma/AWS-Automation-with-Python-Boto3-and-Lambda/blob/main/iam_list_users.py)
 
-[List- Instances and check with instance id](https://github.com/anushri-sharma/AWS-Automation-with-Python-Boto3-and-Lambda/blob/main/list_ec2_instances.py)
+- [List- Instances and check with instance id](https://github.com/anushri-sharma/AWS-Automation-with-Python-Boto3-and-Lambda/blob/main/list_ec2_instances.py)
 
 - Launch and stop a test EC2 instance
 
-[launch](https://github.com/anushri-sharma/AWS-Automation-with-Python-Boto3-and-Lambda/blob/main/launch_ec2.py)
+- [launch](https://github.com/anushri-sharma/AWS-Automation-with-Python-Boto3-and-Lambda/blob/main/launch_ec2.py)
 
-[Stop Instances/ Start/ Terminate](https://github.com/anushri-sharma/AWS-Automation-with-Python-Boto3-and-Lambda/blob/main/ec2.operations.py)
+- [Stop Instances/ Start/ Terminate](https://github.com/anushri-sharma/AWS-Automation-with-Python-Boto3-and-Lambda/blob/main/ec2.operations.py)
