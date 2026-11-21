@@ -1,5 +1,5 @@
 
-# Step 1: Install Boto3
+# Step 1: Install 
 
 Open your PyCharm terminal.
 
